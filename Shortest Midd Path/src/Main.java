@@ -38,6 +38,9 @@ public class Main {
 		graph.ShortestPath(30783,dpArray);
 		System.out.println("\n***NOTE: Some streeet names are repeated because the street is broken up into different sections in the data.***\n"); 
 
+		// Testing Cases 
+// 		graph.ShortestPath(53983, dpArray);
+// 		graph.ShortestPath(5878, dpArray);
 	}
 	
 
